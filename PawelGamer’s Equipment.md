@@ -39,3 +39,4 @@ Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-N
 FaceCam: [Canon EOS M50](https://www.cyfrowe.pl/aparaty/aparat-cyfrowy-canon-m50-czarny.html) + [22mm lens](https://www.cyfrowe.pl/aparaty/obiektyw-canon-22-mm-f-20-ef-m-stm.html)
 
 HandCam: [Creative VF0420](https://www.morele.net/kamera-internetowa-creative-vf0420-142273/)
+
