@@ -13,6 +13,7 @@ Motherboard: [Gigabyte GA-A320M-S2H](https://www.x-kom.pl/p/398832-plyta-glowna-
 Hard Drive: [SSD Samsung PM851 128GB](https://www.morele.net/dysk-ssd-samsung-128-gb-2-5-sata-iii-pm851-128-gb-bulk-mz7te128hmgr-000-646683/)[SSD ADATA Premier Pro SP900 256GB](https://www.x-kom.pl/p/156108-dysk-ssd-adata-256gb-25-sata-ssd-premier-pro-sp900.html)[HDD Toshiba P300 1TB](https://www.x-kom.pl/p/322520-dysk-hdd-toshiba-p300-1tb-7200obr-64mb-oem.html)
 
 OS: Windows 10 64-bit 
+
 Monitor: 
 
 - [SAMSUNG SyncMaster P2070](https://proline.pl/?p=SAMSUNG+20+P2070)
