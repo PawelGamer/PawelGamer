@@ -24,7 +24,7 @@
 
 **Mouse: [Delux M800](https://www.aliexpress.com/item/1005001999988122.html?spm=a2g0s.9042311.0.0.57b04c4deliywt)**
 
-**Keyboard: [MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html)**
+**Keyboard: [MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html)** + [**HyperX Puddings Black Keycaps**](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)
 
 **External Sound Card (for headphones): [Roccat Juke](https://www.x-kom.pl/p/246445-karta-dzwiekowa-roccat-juke-71.html)**
 
