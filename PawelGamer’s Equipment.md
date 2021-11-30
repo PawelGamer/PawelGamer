@@ -1,14 +1,14 @@
 # **PawelGamer’s Equipment**
 
-**CPU: [AMD Ryzen 3 1200](https://www.x-kom.pl/p/376832-procesor-amd-ryzen-3-amd-ryzen-3-1200.html)**
+**CPU: [AMD Ryzen 5 3600](https://www.x-kom.pl/p/500085-procesor-amd-ryzen-5-amd-ryzen-5-3600.html)**
 
 **GPU: [MSI GeForce GTX 1050 Ti GAMING X 4GB GDDR5](https://www.morele.net/karta-graficzna-msi-geforce-gtx-1050ti-gaming-x-4gb-gddr5-gtx-1050-ti-gaming-x-4g-975434/)**
 
-**RAM: [8GB DDR4 2666MHz Kingston HyperX Predator](http://www.gral.pl/HyperX+8GB+DDR4-2666MHz+1x8GB_593.html)**
+**RAM: [8GBx2 [16GB Kit] Kingston FURY 3200MHz CL16 Beast RGB](https://www.x-kom.pl/p/667789-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-rgb.html)**
 
-**SU: [MODECOM FEEL 600W](https://www.x-kom.pl/p/325603-zasilacz-do-komputera-modecom-feel-600w.html)**
+**PSU: [Fortron FSP HV Pro 80+ Bronze (Fan 120mm) 550W](https://www.fsplifestyle.com/PROP201003999/)**
 
-**Motherboard: [Gigabyte GA-A320M-S2H](https://www.x-kom.pl/p/398832-plyta-glowna-socket-am4-gigabyte-ga-a320m-s2h.html)**
+**Motherboard: [ ASRock B550 Phantom Gaming 4](https://www.x-kom.pl/p/569381-plyta-glowna-socket-am4-asrock-b550-phantom-gaming-4.html)**
 
 **Hard Drive:**
 
