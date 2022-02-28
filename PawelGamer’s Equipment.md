@@ -21,7 +21,7 @@
 
 **Monitor:** 
 
-- [ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)
+- **[ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)**
 - **[SAMSUNG SyncMaster P2070](https://proline.pl/?p=SAMSUNG+20+P2070)**
 
 **Tablet: [XP-PEN Star G640](https://www.amazon.de/Graphic-Pressure-Digital-Drawing-Teaching/dp/B07CHF31VT?ref_=ast_sto_dp)**
