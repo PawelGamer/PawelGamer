@@ -14,10 +14,9 @@
 
 - **[SSD Samsung PM851 128GB](https://www.morele.net/dysk-ssd-samsung-128-gb-2-5-sata-iii-pm851-128-gb-bulk-mz7te128hmgr-000-646683/)**
 - **[SSD ADATA Premier Pro SP900 256GB](https://www.x-kom.pl/p/156108-dysk-ssd-adata-256gb-25-sata-ssd-premier-pro-sp900.html)**
+- [**SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)**
 
-- [**SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)
-
-**OS: Windows 10 64bit** 
+**OS: Windows 11 64bit** 
 
 **Monitor:** 
 
@@ -34,10 +33,7 @@
 
 **Speakers: [Creative T3250W](https://www.x-kom.pl/p/212634-glosniki-komputerowe-creative-21-t3250w.html)**
 
-**Headphones:** 
-
-- **[HyperX Cloud II](https://www.x-kom.pl/p/222524-sluchawki-przewodowe-hyperx-cloud-ii-headset-stalowoszare.html)**
-- **[KZ ZS5](https://www.aliexpress.com/item/33030315825.html?spm=a2g0s.9042311.0.0.57b04c4deliywt)**
+**Headphones:** **[HyperX Cloud II](https://www.x-kom.pl/p/222524-sluchawki-przewodowe-hyperx-cloud-ii-headset-stalowoszare.html)**
 
 **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)**
 
