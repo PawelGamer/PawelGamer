@@ -2,7 +2,7 @@
 
 **CPU: [AMD Ryzen 5 3600](https://www.x-kom.pl/p/500085-procesor-amd-ryzen-5-amd-ryzen-5-3600.html)**
 
-**GPU: [MSI GeForce GTX 1050 Ti GAMING X 4GB GDDR5](https://www.morele.net/karta-graficzna-msi-geforce-gtx-1050ti-gaming-x-4gb-gddr5-gtx-1050-ti-gaming-x-4g-975434/)**
+**GPU: [Gigabyte GeForce GTX 1660 Ti OC 6GB GDDR6](https://www.x-kom.pl/p/480513-karta-graficzna-nvidia-gigabyte-geforce-gtx-1660-ti-oc-6gb-gddr6.html)**
 
 **RAM: [8GBx2 [16GB Kit] Kingston FURY 3200MHz CL16 Beast RGB](https://www.x-kom.pl/p/667789-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-rgb.html)**
 
@@ -25,7 +25,7 @@
 
 **Tablet: [XP-PEN Star G640](https://www.amazon.de/Graphic-Pressure-Digital-Drawing-Teaching/dp/B07CHF31VT?ref_=ast_sto_dp)**
 
-**Mouse: [Delux M800 (PAW3335 sensor)](https://www.aliexpress.com/item/1005001999988122.html?spm=a2g0s.9042311.0.0.57b04c4deliywt)**
+**Mouse: [Genesis Krypton 555](https://www.x-kom.pl/p/1092686-myszka-przewodowa-genesis-krypton-555-czarna.html)**
 
 **Keyboard: [MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html)** + [**HyperX Puddings Black Keycaps**](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)
 
