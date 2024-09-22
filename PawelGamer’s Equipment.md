@@ -29,7 +29,7 @@
 
 ## Keyboard:
 
--  **[Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)**
+-  **[Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown)](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)**
 
 - **[MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html) + [HyperX Puddings Black Keycaps](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)**
 
