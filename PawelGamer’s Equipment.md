@@ -1,4 +1,4 @@
-# **PawelGamer’s Equipment** 
+# **PawelGamer’s Equipment**
 
 ## **CPU: [AMD Ryzen 5 3600](https://www.x-kom.pl/p/500085-procesor-amd-ryzen-5-amd-ryzen-5-3600.html)**
 
@@ -16,9 +16,9 @@
 - **[SSD ADATA Premier Pro SP900 256GB](https://www.x-kom.pl/p/156108-dysk-ssd-adata-256gb-25-sata-ssd-premier-pro-sp900.html)**
 - [**SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)
 
-## **OS: Windows 11** 
+## **OS: Windows 11**
 
-## **Monitor:** 
+## **Monitor:**
 
 - **[ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)**
 - **[SAMSUNG SyncMaster P2070](https://proline.pl/?p=SAMSUNG+20+P2070)**
@@ -27,7 +27,11 @@
 
 ## **Mouse: [Genesis Krypton 555](https://www.x-kom.pl/p/1092686-myszka-przewodowa-genesis-krypton-555-czarna.html)**
 
-## **Keyboard: [MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html)** + [**HyperX Puddings Black Keycaps**](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)
+## Keyboard:
+
+- ### [Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)
+
+- ## [MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html) + [**HyperX Puddings Black Keycaps**](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)
 
 ## **External Sound Card (for headphones): [Roccat Juke](https://www.x-kom.pl/p/246445-karta-dzwiekowa-roccat-juke-71.html)**
 
@@ -40,4 +44,3 @@
 **Camera: [Canon EOS M50](https://www.cyfrowe.pl/aparaty/aparat-cyfrowy-canon-m50-czarny.html) + [22mm lens](https://www.cyfrowe.pl/aparaty/obiektyw-canon-22-mm-f-20-ef-m-stm.html)**
 
 **Webcam [Creative Live! Cam 2K V3](https://www.mediaexpert.pl/komputery-i-tablety/mikrofony-do-komputera-i-akcesoria/kamery-internetowe/kamera-creative-live-cam-sync-v3)**
-
