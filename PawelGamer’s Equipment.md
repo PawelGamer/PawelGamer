@@ -12,9 +12,8 @@
 
 ## **Hard Drive:**
 
-- **[SSD Samsung PM851 128GB](https://www.morele.net/dysk-ssd-samsung-128-gb-2-5-sata-iii-pm851-128-gb-bulk-mz7te128hmgr-000-646683/)**
-- **[SSD ADATA Premier Pro SP900 256GB](https://www.x-kom.pl/p/156108-dysk-ssd-adata-256gb-25-sata-ssd-premier-pro-sp900.html)**
-- [**SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)
+- **[M2 NVME SSD ADATA LEGEND 800 1TB](https://www.x-kom.pl/p/1138151-dysk-ssd-adata-1tb-m2-pcie-gen4-nvme-legend-800.html)**
+- [**SATA SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)
 
 ## **OS: Windows 11**
 
