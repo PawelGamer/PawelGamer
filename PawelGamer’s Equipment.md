@@ -38,6 +38,6 @@
 
 ## **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)**
 
-**Camera: [Canon EOS M50](https://www.cyfrowe.pl/aparaty/aparat-cyfrowy-canon-m50-czarny.html) + [22mm lens](https://www.cyfrowe.pl/aparaty/obiektyw-canon-22-mm-f-20-ef-m-stm.html)**
+## **Camera: [Canon EOS M50](https://www.cyfrowe.pl/aparaty/aparat-cyfrowy-canon-m50-czarny.html) + [22mm lens](https://www.cyfrowe.pl/aparaty/obiektyw-canon-22-mm-f-20-ef-m-stm.html)**
 
-**Webcam: [Creative Live! Cam 2K V3](https://www.mediaexpert.pl/komputery-i-tablety/mikrofony-do-komputera-i-akcesoria/kamery-internetowe/kamera-creative-live-cam-sync-v3)**
+## **Webcam: [Creative Live! Cam 2K V3](https://www.mediaexpert.pl/komputery-i-tablety/mikrofony-do-komputera-i-akcesoria/kamery-internetowe/kamera-creative-live-cam-sync-v3)**
