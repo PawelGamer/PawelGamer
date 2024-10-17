@@ -33,8 +33,6 @@
 
 - **[MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html) + [HyperX Puddings Black Keycaps](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)**
 
-## **External Sound Card (for headphones): [Roccat Juke](https://www.x-kom.pl/p/246445-karta-dzwiekowa-roccat-juke-71.html)**
-
 ## **Speakers: [Creative T3250W](https://www.x-kom.pl/p/212634-glosniki-komputerowe-creative-21-t3250w.html)**
 
 ## **Headphones: [SteelSeries Arctis Nova 3](https://www.mediaexpert.pl/komputery-i-tablety/sluchawki-i-glosniki-komputerowe/sluchawki-z-mikrofonem/sluchawki-steelseries-arctis-nova-3-czarny)**
