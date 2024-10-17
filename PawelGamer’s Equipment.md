@@ -37,7 +37,7 @@
 
 ## **Speakers: [Creative T3250W](https://www.x-kom.pl/p/212634-glosniki-komputerowe-creative-21-t3250w.html)**
 
-## **Headphones:** **[SteelSeries Arctis Nova 3](https://www.x-kom.pl/p/222524-sluchawki-przewodowe-hyperx-cloud-ii-headset-stalowoszare.html](https://www.mediaexpert.pl/komputery-i-tablety/sluchawki-i-glosniki-komputerowe/sluchawki-z-mikrofonem/sluchawki-steelseries-arctis-nova-3-czarny)**
+## **Headphones: [SteelSeries Arctis Nova 3](https://www.mediaexpert.pl/komputery-i-tablety/sluchawki-i-glosniki-komputerowe/sluchawki-z-mikrofonem/sluchawki-steelseries-arctis-nova-3-czarny)**
 
 ## **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)**
 
