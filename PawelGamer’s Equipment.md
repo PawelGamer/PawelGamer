@@ -14,6 +14,7 @@
 
 - **[M2 NVME SSD ADATA LEGEND 800 1TB](https://www.x-kom.pl/p/1138151-dysk-ssd-adata-1tb-m2-pcie-gen4-nvme-legend-800.html)**
 - [**SATA SSD Samsung 870 QVO 1TB**](https://www.x-kom.pl/p/578860-dysk-ssd-samsung-1tb-25-sata-ssd-870-qvo.html)
+- [**SATA HDD WD RED 3TB**](https://www.x-kom.pl/p/103165-dysk-hdd-wd-red-3tb-5400obr-64mb.html)
 
 ## **OS: Windows 11**
 
@@ -24,20 +25,14 @@
 
 ## **Tablet: [XP-PEN Star G640](https://www.amazon.de/Graphic-Pressure-Digital-Drawing-Teaching/dp/B07CHF31VT?ref_=ast_sto_dp)**
 
-## **Mouse: [Genesis Krypton 555](https://www.x-kom.pl/p/1092686-myszka-przewodowa-genesis-krypton-555-czarna.html)**
+## **Mouse: [SteelSeries Rival 3](https://www.mediaexpert.pl/komputery-i-tablety/myszy-komputerowe/myszki-uniwersalne/mysz-steelseries-rival-3)**
 
-## Keyboard:
-
--  **[Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown)](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)**
-
-- **[MODECOM Volcano LANPARTY 2 (Gateron Brown)](https://www.x-kom.pl/p/528847-klawiatura-przewodowa-modecom-volcano-lanparty-2-rgb-gateron-brown.html) + [HyperX Puddings Black Keycaps](https://www.x-kom.pl/p/586884-keycaps-do-klawiatury-hyperx-pbt-pudding-keycap-black.html)**
+## Keyboard: **[Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown)](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)**
 
 ## **Speakers: [Creative T3250W](https://www.x-kom.pl/p/212634-glosniki-komputerowe-creative-21-t3250w.html)**
 
 ## **Headphones: [SteelSeries Arctis Nova 3](https://www.mediaexpert.pl/komputery-i-tablety/sluchawki-i-glosniki-komputerowe/sluchawki-z-mikrofonem/sluchawki-steelseries-arctis-nova-3-czarny)**
 
 ## **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)**
-
-## **Camera: [Canon EOS M50](https://www.cyfrowe.pl/aparaty/aparat-cyfrowy-canon-m50-czarny.html) + [22mm lens](https://www.cyfrowe.pl/aparaty/obiektyw-canon-22-mm-f-20-ef-m-stm.html)**
 
 ## **Webcam: [Creative Live! Cam 2K V3](https://www.mediaexpert.pl/komputery-i-tablety/mikrofony-do-komputera-i-akcesoria/kamery-internetowe/kamera-creative-live-cam-sync-v3)**
