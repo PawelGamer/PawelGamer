@@ -1,10 +1,10 @@
 # **PawelGamer’s Equipment**
 
-## **CPU: [AMD Ryzen 5 3600](https://www.x-kom.pl/p/500085-procesor-amd-ryzen-5-amd-ryzen-5-3600.html)**
+## **CPU: [AMD Ryzen 7 5700X](https://www.sferis.pl/procesor-amd-ryzen-7-5700x-tray-i387439)**
 
 ## **GPU: [Gigabyte GeForce GTX 1660 Ti OC 6GB GDDR6](https://www.x-kom.pl/p/480513-karta-graficzna-nvidia-gigabyte-geforce-gtx-1660-ti-oc-6gb-gddr6.html)**
 
-## **RAM: [8GBx2 [16GB Kit] Kingston FURY 3200MHz CL16 Beast RGB](https://www.x-kom.pl/p/667789-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-rgb.html)**
+## **RAM: [PATRIOT Viper Steel DDR4 32GB 2x16GB](https://www.sferis.pl/patriot-viper-steel-ddr4-32gb-2x16gb-3600mhz-rgb-i303085)**
 
 ## **PSU: [Fortron FSP HV Pro 80+ Bronze (Fan 120mm) 550W](https://www.fsplifestyle.com/PROP201003999/)**
 
