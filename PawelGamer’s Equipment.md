@@ -21,7 +21,7 @@
 ## **Monitor:**
 
 - **[ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)**
-- **[SAMSUNG SyncMaster P2070](https://proline.pl/?p=SAMSUNG+20+P2070)**
+- **[Acer Nitro XV240YX1](https://www.x-kom.pl/p/1316083-monitor-led-24-235-264-acer-nitro-xv240yx1bmiiprx.html)**
 
 ## **Tablet: [XP-PEN Star G640](https://www.amazon.de/Graphic-Pressure-Digital-Drawing-Teaching/dp/B07CHF31VT?ref_=ast_sto_dp)**
 
@@ -33,6 +33,6 @@
 
 ## **Headphones: [SteelSeries Arctis Nova 3](https://www.mediaexpert.pl/komputery-i-tablety/sluchawki-i-glosniki-komputerowe/sluchawki-z-mikrofonem/sluchawki-steelseries-arctis-nova-3-czarny)**
 
-## **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)**
+## **Microphone: [Novox NC-1](https://audiotop.pl/pl/p/Mikrofon-pojemnosciowy-Novox-NC-1-Czarny-statyw-pop-filtr/2833)** or headset mic
 
 ## **Webcam: [Creative Live! Cam 2K V3](https://www.mediaexpert.pl/komputery-i-tablety/mikrofony-do-komputera-i-akcesoria/kamery-internetowe/kamera-creative-live-cam-sync-v3)**
