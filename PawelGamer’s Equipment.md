@@ -27,7 +27,7 @@
 
 ## **Mouse: [SteelSeries Rival 3](https://www.mediaexpert.pl/komputery-i-tablety/myszy-komputerowe/myszki-uniwersalne/mysz-steelseries-rival-3)**
 
-## Keyboard: **[Keychron K1 Pro QMK/VIA Wireless Custom Mechanical Keyboard (Low Profile Gateron Brown)](https://keychronpoland.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)**
+## Keyboard: **[SteelSeries Apex Pro TKL](https://www.mediaexpert.pl/komputery-i-tablety/klawiatury-komputerowe/klawiatury/klawiatura-steelseries-apex-pro-tkl-gen-3)**
 
 ## **Speakers: [Creative T3250W](https://www.x-kom.pl/p/212634-glosniki-komputerowe-creative-21-t3250w.html)**
 
