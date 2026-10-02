@@ -4,10 +4,4 @@
 
 
 ### ****Specyfikacja mojego komputera**** *---->* <em><ins>[KLIK!](https://github.com/PawelGamer/PawelGamer/blob/master/PawelGamer%E2%80%99s%20Equipment.md)<em><ins>
-
-
- ## **To do list:**
-
-- [x] README 
-- [x] specyfikacja komputera
-- [ ] dokument ze skinami do osu!
+### ****Skiny jakie używam w osu!**** *---->* <em><ins>[KLIK!](https://github.com/PawelGamer/PawelGamer/blob/master/osu!%20skins)<em><ins>
