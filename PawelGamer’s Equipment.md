@@ -2,7 +2,7 @@
 
 ## **CPU: [AMD Ryzen 7 5700X](https://www.sferis.pl/procesor-amd-ryzen-7-5700x-tray-i387439)**
 
-## **GPU: [Gigabyte GeForce GTX 1660 Ti OC 6GB GDDR6](https://www.x-kom.pl/p/480513-karta-graficzna-nvidia-gigabyte-geforce-gtx-1660-ti-oc-6gb-gddr6.html)**
+## **GPU: [Gigabyte GeForce RTX 3060 GAMING OC LHR 12GB GDDR6](https://www.x-kom.pl/p/661713-karta-graficzna-nvidia-gigabyte-geforce-rtx-3060-gaming-oc-lhr-12gb-gddr6.html)**
 
 ## **RAM: [PATRIOT Viper Steel DDR4 32GB 2x16GB](https://www.sferis.pl/patriot-viper-steel-ddr4-32gb-2x16gb-3600mhz-rgb-i303085)**
 
