@@ -20,8 +20,8 @@
 
 ## **Monitor:**
 
-- **[ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)**
 - **[Acer Nitro XV240YX1](https://www.x-kom.pl/p/1316083-monitor-led-24-235-264-acer-nitro-xv240yx1bmiiprx.html)**
+- **[ACER XF240QSBIIPR](https://www.x-kom.pl/p/577799-monitor-led-24-acer-xf240qsbiipr-czarny.html)**
 
 ## **Tablet: [XP-PEN Star G640](https://www.amazon.de/Graphic-Pressure-Digital-Drawing-Teaching/dp/B07CHF31VT?ref_=ast_sto_dp)**
 
